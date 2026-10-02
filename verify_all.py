@@ -13,6 +13,11 @@ PAIRS = [
     ("Zvezda_chernoy_dyry.xlsx", "src/src_bhstar.txt"),
     ("Stupeni_na_Lune.xlsx", "src/src_moonstage.txt"),
     ("Teoriya_strun.xlsx", "src/src_strings.txt"),
+    ("Panspermiya.xlsx", "src/src_pansp.txt"),
+    ("Neptun.xlsx", "src/src_neptune.txt"),
+    ("Planety_okeany.xlsx", "src/src_oceanw.txt"),
+    ("Proshloe_Zemli.xlsx", "src/src_pastearth.txt"),
+    ("Graviton.xlsx", "src/src_graviton.txt"),
 ]
 
 total_err = 0
