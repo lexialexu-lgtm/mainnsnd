@@ -1,0 +1,387 @@
+[
+ {
+  "part": 3,
+  "space": false,
+  "nano": "Close-up of a small red cylinder of hydrogen gas strapped to a steel frame at the very start of an accelerator chain, a thin pipe and valves leading from it into a compact linear accelerator section, an adult technician's gloved hand on the valve, 85mm lens, cool lab light. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow pull-back.",
+  "karta": "А теперь о масштабе задачи. Пучки протонов в коллайдере — это не отдельные частицы"
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A beam observation screen inside a vacuum chamber seen through a small round viewport, a proton bunch striking it and leaving a compact bright green oval spot on the dark plate, steel flanges and bolts around the window, 100mm macro lens, darkness around. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Animate it.",
+  "karta": "а сгустки, в каждом из которых около ста миллиардов протонов."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "Front panel of a timing electronics crate in a detector service cavern, rows of tiny green and amber lights blinking in rapid unison, thin optical fibres plugged into every slot, cable ties and labels turned away, 50mm lens, dim room light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Tracking shot.",
+  "karta": "Сгустки сталкиваются каждые двадцать пять наносекунд — сорок миллионов раз в секунду."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A monitor showing a side-on collision image along the beam line, dozens of separate small vertices strung along a thin horizontal line, each sprouting its own fan of coloured tracks, no text, a dark office around, 85mm lens, cool screen light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow pan right.",
+  "karta": "И при каждой такой встрече происходит не одно столкновение протонов, а несколько десятков одновременно."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "The five-storey detector barrel of red steel return-yoke wheels with silver end-cap discs sealed and running in its empty cavern, orange rotating warning beacons turning on the walls, no people allowed near, the massive machine humming in semi-darkness, 20mm lens, flashes of orange light on steel. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow orbit.",
+  "karta": "В итоге в детекторе ежесекундно случаются больше миллиарда столкновений."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A long laboratory bench covered with hundreds of bare hard disk drives stacked in neat towers, an adult technician in a grey polo shirt sliding one more onto the pile, cables hanging from a shelf, 35mm lens, flat fluorescent light. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Animate it.",
+  "karta": "Если бы физики пытались сохранить всё"
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "Inside a robotic tape library, a long aisle between walls of thousands of black tape cartridges in slots, a robotic arm gliding along a rail to pick one out, a small amber warning light on the rail, 24mm lens, cold white light, mechanical precision, nobody present. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow dolly left.",
+  "karta": "им пришлось бы записывать данные со скоростью в десятки терабайт в секунду. Таких хранилищ не существует."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "Extreme close-up of a bundle of optical fibre connectors plugged into a readout board, tiny pinpoints of red laser light at the open ends of spare fibres, flat ribbon cables around, dust caps hanging from unused ports, a strip of yellow tape across the board, 100mm macro lens, dark background. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow push-in.",
+  "karta": "Поэтому подавляющее большинство столкновений приходится выбрасывать прямо на лету, не записывая."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "Wide shot of tall black electronics racks packed with green FPGA circuit boards and orange fibre cables, standing in a row in an underground service cavern beside a detector, an adult engineer in a hard hat walking past, 28mm lens, cool fluorescent light and tiny status lights. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Handheld drift.",
+  "karta": "Решение принимает система, которую называют триггером, что значит «спусковой крючок»."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "Extreme close-up of a single large square FPGA chip on a green circuit board, a black heat sink lifted off beside it, tiny surface-mounted components around and gold contacts at the board edge, the board resting on a grey anti-static mat, 100mm macro lens, crisp neutral light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow tilt up.",
+  "karta": "Её первый уровень — это специальная электроника, которая за несколько миллионных долей секунды должна решить, интересно ли столкновение."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "Close-up of tall black electronics racks packed with green FPGA circuit boards and orange fibre cables, an adult female engineer in a fleece jacket sliding a board into its slot, rows of tiny lights flickering faster than the eye can follow, 50mm lens, cool blue light. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Handheld drift.",
+  "karta": "Из сорока миллионов событий в секунду она отбирает около ста тысяч."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A computer farm room near a detector site, narrow aisles of white server cabinets with perforated doors, warm air shimmering at the back, overhead cable trays, an adult technician with a laptop on a cart, 28mm lens, bright white light. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow pan left.",
+  "karta": "Затем второй уровень, огромная компьютерная ферма, проводит более тщательный отбор"
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A tall rack of disk storage servers seen from the front, dozens of drive trays with small blue activity lights, one tray pulled out halfway, a cold-aisle grille floor, a laptop open on a small trolley at the end of the row, 35mm lens, cool white light, nobody present. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Animate it.",
+  "karta": "и на хранение отправляются всего несколько тысяч событий в секунду. Остальное исчезает навсегда."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "An adult technician's hand pulling a single hard disk drive out of a densely packed storage rack, every other slot full and blinking, his sleeve rolled up, a barcode sticker turned away, 85mm lens, shallow focus on the drive, cool data-room light, quiet precision. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Static shot.",
+  "karta": "Вдумайтесь: из каждых десяти тысяч столкновений сохраняется примерно одно."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "Two adult theorists, a man in a cardigan and a woman with braided hair, arguing by a tall window in a physics department corridor, one gesturing with open hands, notebooks under their arms, a radiator and a bench below the window, 35mm lens, grey afternoon light. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow tilt down.",
+  "karta": "И если тёмная материя рождается в коллайдере, но выглядит не так"
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A grey metal office waste bin beside an electronics rack, overflowing with crumpled sheets of paper and torn printouts, a few balls of paper on the floor around it, a coffee cup left on top of the rack, 50mm lens, flat fluorescent light, ordinary mundane detail. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow push-in.",
+  "karta": "как предполагали теоретики, она может бесследно исчезнуть в этом мусорном ведре."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "Extreme close-up of a large artificial intelligence accelerator chip on a server motherboard, its square silicon die surrounded by memory stacks, a thick copper cooling block being lowered onto it by adult hands, small screws laid out on a tray beside the board, 100mm macro lens, crisp cool light. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow crane up.",
+  "karta": "Именно здесь на сцену выходит искусственный интеллект."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "Early 2000s physics office, an adult male physicist in a fleece at a bulky beige CRT monitor showing colourful particle tracks, a tower computer under the desk, piles of paper and a window onto parked cars, 35mm lens, flat daylight. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow pull-back.",
+  "karta": "На самом деле машинное обучение используется в физике частиц давно."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A crowded detector control room in 2012, several adult physicists at laptops and big monitors full of coloured collision images, pizza boxes and coffee cups on the desks, an adult woman in a red sweater standing with arms crossed behind them, 28mm lens, cool screen light, busy late-night energy. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Animate it.",
+  "karta": "Ещё в анализе, который привёл к открытию бозона Хиггса, применялись алгоритмы, обученные отличать полезные события от фона."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A modern collaborative workspace at a physics laboratory, a mixed team of six adult researchers with laptops around a long table, one man standing at a large screen of collision images, sticky notes on the glass wall and a coffee machine in the corner, 24mm lens, bright daylight through glass walls. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow orbit.",
+  "karta": "Но в последние годы произошла настоящая революция."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A large wall display showing a collision with every reconstructed particle track drawn in clean distinct colours, an adult woman and an adult man reviewing it side by side, one pointing at a cluster, 35mm lens, dim room, cool screen light. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow pan right.",
+  "karta": "Нейросети проникли буквально во все этапы работы — от отбора событий до восстановления траекторий частиц."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "Close view of the innermost heart of a giant detector, the two halves of the silicon pixel detector clamped around the thin beam pipe at the collision point, cooling tubes and carbon supports, a technician's torch beam crossing the sensors, 50mm lens, bright work lamps. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow pull-back.",
+  "karta": "Вспомните, что при каждой встрече сгустков происходят десятки столкновений одновременно."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A monitor showing a dense collision image with hundreds of overlapping coloured tracks crossing and tangling around the centre, no text, a dark office reflected faintly in the screen, the tracks crossing many times near the beam line, 85mm lens, cool light, visual chaos. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow dolly right.",
+  "karta": "Частицы от всех этих столкновений перемешиваются в детекторе."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "An adult physicist's hand moving a mouse while one bright yellow bundle of tracks stands out on the monitor among hundreds of grey ones, no text, a notebook and pen beside the keyboard, a second monitor dark beside it, 85mm lens, low blue light. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow tilt up.",
+  "karta": "Как понять, какие из них родились в одном интересном столкновении, а какие — в соседних, скучных?"
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "An adult woman at a laptop in a quiet library-like study room, the screen showing a blank chat window of empty grey speech bubbles with no text, a coffee cup beside her, a window with a tree outside behind her, 50mm lens, soft daylight, ordinary modern scene. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Animate it.",
+  "karta": "Оказалось, что с этим прекрасно справляются трансформеры — тот же тип нейросетей, который лежит в основе современных чат-ботов."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A narrow server room aisle lined with dense racks of graphics processor servers training a large neural network, hundreds of small green lights, thick bundles of blue network cables, a cold-aisle floor grille underfoot and no one present, 24mm lens, cold white light, steady hum. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Handheld drift.",
+  "karta": "Языковая модель учится понимать, какое слово в предложении связано с каким."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "An adult physicist in a denim shirt beside a desktop workstation with its side panel open, two large graphics cards inside, monitors showing a coloured collision image, a mug and headphones on the desk, 35mm lens, warm desk lamp and cool screen light. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow pan left.",
+  "karta": "А физическая нейросеть такого же устройства учится понимать"
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A monitor showing a collision image where the tracks are coloured in separate groups, each group converging back onto its own small point along the beam line, no text, a dark room, a faint reflection of a lamp on the glass, 85mm lens, clean contrast. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow orbit.",
+  "karta": "какая частица связана с какой, потому что они вылетели из одной точки."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "An adult female physicist with curly hair leaning back from her monitor with a satisfied smile, the screen showing a neat orderly collision image, a plant and a stack of papers on her desk, a postcard of mountains pinned to the wall, 50mm lens, warm evening light. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Static shot.",
+  "karta": "Чем лучше удаётся распутать этот клубок, тем точнее измерения."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A busy laboratory cafeteria at lunchtime, an adult physicist in a blue jacket working on a laptop at a long table, colleagues chatting over trays, tall windows onto green lawns, trays of salad and coffee cups on the table, 35mm lens, bright daylight. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Tracking shot.",
+  "karta": "Классический способ поиска тёмной материи с помощью нейросетей выглядит так."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A long corridor of a theory department, an adult male theorist in a sweater pacing slowly with his hands behind his back, rows of closed office doors and a notice board turned away, afternoon light falling through a window at the end, 35mm lens, soft overhead light. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Animate it.",
+  "karta": "Теоретики придумывают модель — какой могла бы быть частица тёмной материи и как бы она проявилась в детекторе."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A large monitor tiled with dozens of small simulated collision images, each a different spray of coloured tracks, no text, an adult technician's silhouette in front, keyboards and mugs on the desk below, 50mm lens, dim room, cool screen light. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow crane up.",
+  "karta": "Компьютер создаёт миллионы искусственных столкновений: и с такой частицей, и без неё."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "An adult physicist with a ponytail pressing a key on a keyboard to start a job, beside her a second monitor showing a live collision image from the detector, no text, an empty chair beside her, 50mm lens, cool screen light and dark office. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow pull-back.",
+  "karta": "Нейросеть учится различать эти два вида событий. А потом её запускают на настоящих данных и смотрят"
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "Three adult physicists crowded behind one chair, leaning over the shoulder of a colleague at a monitor, faces expectant, a whiteboard wiped clean behind them, a plant in the corner and blinds half down, 35mm lens, flat office light, quiet suspense. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Tracking shot.",
+  "karta": "не найдётся ли больше событий, похожих на тёмную материю, чем должно быть без неё?"
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "An adult male physicist with grey stubble sitting alone in a meeting room after a talk, staring at a laptop with a doubtful expression, empty chairs pushed back around the table, a projector still switched on above the table, 35mm lens, late afternoon light. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow dolly left.",
+  "karta": "Но у этого подхода есть серьёзная слабость. Нейросеть ищет только то, что ей заранее описали."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "Close side view of the five-storey detector barrel of red steel return-yoke wheels with silver end-cap discs, silent in its dim cavern after a run, a few lamps reflecting on the steel, steel plates and cable trays catching the light, 50mm lens, cool shadowy light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow pan right.",
+  "karta": "А что, если тёмная материя устроена совсем не так, как предполагали теоретики?"
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "End view of a giant detector during a shutdown, its end-cap pulled back on rails exposing the dark circular bore with the beam pipe at its centre, layered rings of instruments around it, two adult engineers in hard hats standing small at the rim, 24mm lens, bright inspection light. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Animate it.",
+  "karta": "Что, если ключ к загадке давно пролетает через детектор"
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "tall black electronics racks packed with green FPGA circuit boards and orange fibre cables, seen from a low angle in a narrow aisle, the orange fibres hanging in loops, small lights flickering, 20mm lens, cold blue light, no one present. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow tilt up.",
+  "karta": "но выглядит настолько неожиданно, что его не распознаёт ни один фильтр? И тогда физики решили перевернуть задачу."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "An adult physicist scrolling through a monitor wall tiled with thousands of tiny ordinary collision images, all looking roughly alike, no text, his hand on a trackball, a dark office and a half-eaten sandwich on the desk, 35mm lens, cool screen light. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow orbit.",
+  "karta": "Вместо того чтобы учить нейросеть узнавать то, что мы ищем её стали учить узнавать то, что мы уже знаем."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A row of graphics processor servers in a glass-walled machine room near a detector, cooling fans visible behind perforated doors, a monitor on a cart showing a stream of ordinary collision images, a cold-aisle grille floor underfoot, 28mm lens, white light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow tilt up.",
+  "karta": "Нейросеть просматривает огромное количество самых обычных, скучных столкновений и запоминает, как выглядит нормальная жизнь коллайдера."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A monitor showing one new collision image enlarged in the centre, surrounded by a grid of small ordinary ones, no text, a physicist's fingers resting on the keyboard below, a cup of tea steaming beside the keyboard, 85mm lens, low blue light. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow push-in.",
+  "karta": "А потом, когда приходит новое событие, она оценивает: насколько оно похоже на всё, что она видела раньше?"
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A grid of identical-looking collision images on a monitor, one single image among them showing a strange lopsided burst of tracks outlined with a thin red frame, no text, a pen resting on the desk below, 85mm lens, dark office, cool screen light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow dolly right.",
+  "karta": "Если совсем не похоже — значит, произошло что-то странное. Такой подход называют поиском аномалий."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "An adult female physicist and an adult male colleague in a small office looking at a monitor together, the screen showing one unusual collision image, both leaning closer with curiosity, papers and a whiteboard wiped clean behind them, 50mm lens, warm desk lamp light. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Animate it.",
+  "karta": "Нейросети не нужно знать, что именно она ищет. Ей достаточно заметить, что что-то не так."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "An experienced adult museum guard in a dark uniform jacket standing calmly by the doorway of a quiet gallery, framed paintings on pale walls, polished parquet floor, a small wooden bench in the centre of the room, 35mm lens, soft daylight from skylights. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Static shot.",
+  "karta": "Это похоже на опытного охранника музея, который не знает"
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A museum gallery on an ordinary weekday, a few adult visitors strolling slowly past paintings and sculptures, the same adult guard in a dark uniform watching from a chair in the corner, the guard's eyes following the room, 28mm lens, soft even skylight. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow pan left.",
+  "karta": "как выглядит вор, но прекрасно знает, как выглядит обычный день в музее."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "The adult museum guard in a dark uniform suddenly rising from his chair and turning his head sharply toward an adult visitor stepping over a velvet rope, the gallery otherwise calm, nearby visitors turning to look, 50mm lens, soft skylight, moment of alertness. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow pan right.",
+  "karta": "И сразу замечает, когда что-то идёт не по привычному сценарию."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "tall black electronics racks packed with green FPGA circuit boards and orange fibre cables, an adult technician in an anti-static wrist strap inserting one board into a crate, the giant detector cavern visible through an open door behind, 35mm lens, cool light. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Tracking shot.",
+  "karta": "Самое поразительное, что такую нейросеть удалось встроить прямо в первый уровень триггера детектора Си-Эм-Эс."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "Extreme close-up of the front panel of a trigger electronics board, a row of optical transceiver modules with tiny green lights, a small cooling fan spinning on the board, fibre cables arching away to the next crate, 100mm macro lens, dark background, crisp detail. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow pull-back.",
+  "karta": "Туда, где решение о судьбе каждого столкновения нужно принять за миллионные доли секунды."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A pink axolotl with feathery external gills resting on the sandy bottom of a clean aquarium, its wide smiling face toward the camera, a few green plants and smooth pebbles around it, bubbles rising slowly from a filter in the corner, 85mm lens, soft aquarium light, clear water. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Animate it.",
+  "karta": "Нейросеть с забавным названием, созвучным имени мексиканской амфибии аксоло́тля"
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "Wide shot of an underground electronics service cavern beside a detector, long rows of tall black electronics racks packed with green FPGA circuit boards and orange fibre cables, fibre cables in orange loops along overhead trays, an adult engineer in a hard hat reading a laptop on a trolley, 24mm lens, cool fluorescent light. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Handheld drift.",
+  "karta": "с две тысячи двадцать четвёртого года работает прямо в электронике детектора."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "Close-up of a large FPGA processing board lying on an anti-static mat, a heavy finned aluminium heat sink, a ribbon of fibre connectors along one edge, a screwdriver resting beside it, a magnifier lamp angled over it, 85mm lens, bright neutral bench light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow crane up.",
+  "karta": "Она оценивает каждое событие примерно за пятьдесят наносекунд, то есть за пятьдесят миллиардных долей секунды."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A dark optics laboratory, a thin red laser beam crossing about fifteen metres of empty room from a small laser on a steel table to a mirror on a far wall, 24mm lens, almost total darkness, the beam crisp and straight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Static shot.",
+  "karta": "За это время свет успевает пролететь всего пятнадцать метров."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A monitor showing a single unusual collision image with a strange cluster of tracks, no text, a small sticky note stuck to the bezel, coffee mug and keyboard below, a dark office window behind, 85mm lens, shallow focus, low blue light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow push-in.",
+  "karta": "И уже есть столкновения, которые эта нейросеть сохранила, хотя все обычные фильтры отправили бы их в мусорное ведро."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A physics office at night, two adult physicists of different backgrounds working at adjacent desks with laptops, printouts stacked, the window black, a small plant and a stack of journals between them, 35mm lens, warm desk lamps, steady patient work. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow tilt down.",
+  "karta": "Нашла ли она тёмную материю? Пока нет. Анализ отобранных ею событий продолжается. Но сам подход меняет философию поиска."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "An adult physicist with glasses turning in her chair to call a colleague over, pointing at a monitor showing an unexpected collision image, the colleague hurrying from the doorway, a whiteboard wiped clean on the wall, 35mm lens, cool screen light, moment of surprise. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Animate it.",
+  "karta": "Впервые машина может указать физикам на то, о чём они даже не подумали спросить."
+ }
+]
