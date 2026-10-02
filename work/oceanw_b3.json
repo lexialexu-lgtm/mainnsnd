@@ -1,0 +1,394 @@
+[
+ {
+  "part": 3,
+  "space": true,
+  "nano": "A hazy planet whose thick hydrogen atmosphere hangs over a planet-wide ocean of molten rock, rivers and lakes of orange red-hot magma visible through breaks in the gas, dark crusted slabs floating on the lava, 35mm lens, orange light from below and dim red starlight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow pan right.",
+  "karta": "Первый вариант: под водородной атмосферой лежит не водяной, а магматический океан — расплавленная каменная порода."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "High-temperature laboratory furnace with its door open, a platinum crucible of orange red-hot molten rock inside, a thin ceramic tube feeding gas into the melt, adult researcher in a heat-resistant suit and face shield watching, 50mm lens, intense furnace light. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow tilt down.",
+  "karta": "Аммиак, как выяснилось, растворяется и в магме, причём достаточно хорошо, чтобы исчезнуть из атмосферы."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "An ordinary mini-Neptune, puffy pale blue planet with thick hazy hydrogen envelope and no visible surface, its envelope deep, dense and hot, layers of heavy gas descending far below the hazy cloud tops with no solid ground anywhere, 35mm lens, dim starlight above and faint red heat below. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Handheld drift.",
+  "karta": "Второй вариант: перед нами самый обычный мининепту́н с глубокой, плотной и горячей газовой оболочкой."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "Far inside the scorching depths of a gaseous planet, red-hot turbulent gas at immense pressure tearing molecules apart, the upper cold layers far above out of reach, 20mm ultra-wide lens, deep dull red light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Animate it.",
+  "karta": "В его раскалённых глубинах аммиак разрушается, а к верхним слоям попадает слишком мало, чтобы его заметить."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "Three planets floating side by side under the same red star, one covered by a deep blue ocean, one by an orange lava sea, one entirely made of thick gas, yet each wrapped in an identical pale hydrogen haze, 35mm lens, even red starlight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow dolly left.",
+  "karta": "Получается, что три совершенно разных мира — океанский, лавовый и газовый — дают почти одинаковый отпечаток в спектре."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "James Webb Space Telescope, huge segmented gold hexagonal mirror above layered silver sunshield, seen from the sunshield side, its mirror aimed at one faint red point, the planet beside that star far too small and distant to resolve, 28mm wide lens, hard sunlight across the silver layers. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow push-in.",
+  "karta": "Наблюдения пока не позволяют выбрать между ними."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "Day side of K2-18 b, hazy blue-grey sub-Neptune with thick pale hydrogen envelope and soft cloud bands, haze layers heavy with heat under its close red star, the air below thickening into warm murk, 50mm lens, warm orange-red light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow orbit.",
+  "karta": "Но, может быть, хотя бы физика подскажет, какой вариант вероятнее? Подсказывает. И не в пользу океана."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "A hycean planet wrapped all around in a massive thick envelope of hydrogen, heat from below unable to escape through the dense layers, its dark night side still faintly warm, 70mm lens, low red starlight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow pan left.",
+  "karta": "Вспомните, что водородная атмосфера — это мощное одеяло."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "From the surface of a liquid hydrogen-sky ocean far from its star, warm calm water stretching away, the distant sun only a faint small dot above the pale sky, 20mm ultra-wide lens, soft weak light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Animate it.",
+  "karta": "Именно поэтому гикеа́ны казались такими гибкими: они могут быть тёплыми далеко от звезды."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "A heavy winter quilt thrown over a bed in a stuffy bedroom on a hot summer afternoon, open window with bright sun outside, the thick fabric clearly too warm for the day, 35mm lens, harsh summer daylight. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Static shot.",
+  "karta": "Но у одеяла есть обратная сторона."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "From high orbit over K2-18 b, hazy blue-grey sub-Neptune with thick pale hydrogen envelope and soft cloud bands, the large dim disc of its star rising over the hazy horizon, strong stellar heat pouring onto the dayside clouds, 24mm wide lens, intense red-orange light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow tilt up.",
+  "karta": "Если планета получает от звезды столько же энергии, сколько Земля"
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "Low inside the dense lower atmosphere of a hydrogen-wrapped planet, thick hot steamy layers pressing down, heat shimmering in the murk, no relief from the warmth, warm drizzle condensing and evaporating again before it can reach anything below, 35mm lens, sultry dim orange light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow dolly right.",
+  "karta": "да ещё и укрыта толстым слоем водорода, ей становится слишком жарко."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "Supercomputer hall with long rows of black server cabinets, blue status lights and cooling pipes, an adult engineer in a dark polo walking between the racks, rows of cables running overhead, the hall humming with climate simulations, 24mm wide lens, cool fluorescent light. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Animate it.",
+  "karta": "Климатические модели, в том числе трёхмерные, которые учитывают облака и циркуляцию атмосферы"
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "K2-18 b, hazy blue-grey sub-Neptune with thick pale hydrogen envelope and soft cloud bands, smothered in a thick bright blanket of steam clouds and boiling haze, its atmosphere trapped in a runaway greenhouse, 50mm lens, harsh red starlight on dense white vapor. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow pull-back.",
+  "karta": "показали: Ка-два-восемнадцать бэ, скорее всего, находится в режиме неудержимого парникового эффекта."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "Surface of a hot alien sea under a red star, columns of steam rising from the warm water across the whole horizon, the ocean rapidly evaporating into the thick air, 28mm wide lens, hazy red-orange light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Tracking shot.",
+  "karta": "Чем теплее, тем больше испаряется воды"
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "Huge towering banks of water vapor piling up over a boiling alien ocean, the air getting hotter and murkier with every layer, steam rising into ever thicker clouds, 24mm wide lens, dim hot orange light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow crane up.",
+  "karta": "водяной пар сам по себе парниковый газ, и температура растёт дальше. Петля замыкается."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "A hazy water world seen from space with a bright white cloud deck on its day side reflecting most of the red starlight straight back into black space, 85mm telephoto lens, strong reflected starlight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow pan right.",
+  "karta": "Чтобы сохранить жидкий океан, планете понадобилось бы отражать в космос огромную долю звёздного света"
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "K2-18 b, hazy blue-grey sub-Neptune with thick pale hydrogen envelope and soft cloud bands, entirely wrapped in a continuous brilliant white cloud cover without a single gap from pole to pole, 50mm lens, bright even red-white light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Animate it.",
+  "karta": "например, благодаря сплошному яркому облачному покрову."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "Gaps in a bright white cloud cover over a hycean world revealing a dark liquid ocean far below, a lucky balance holding the water in place, thin breaks in the clouds lined by bright edges, dark water visible through each opening, 135mm telephoto lens, soft starlight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow tilt down.",
+  "karta": "Это не невозможно, но требует удачного стечения обстоятельств."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "The deep bottom of a hot hydrogen atmosphere, dense steaming murk where an ocean should be, no water surface at all, only thickening hot vapor, the haze getting hotter and heavier the deeper the view goes, no bottom in sight, 20mm ultra-wide lens, dull orange light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Handheld drift.",
+  "karta": "А без такого покрова вода на дне атмосферы превращается не в океан"
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "High-pressure lab cell with a thick round sapphire window, inside it water heated under extreme pressure, the boundary between liquid and vapor fading away into a single cloudy fluid, 100mm macro lens, bright side lighting. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow dolly left.",
+  "karta": "а в так называемый сверхкритический флюид — странное состояние вещества, в котором уже нет разницы между жидкостью и газом."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "Inside a dense hot fluid layer of a planet, no waves, no surface, no seafloor, the opaque medium gradually thinning upward into atmosphere, a featureless orange-grey haze in every direction, 24mm wide lens, diffuse hot light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Animate it.",
+  "karta": "Ни волн, ни поверхности, ни дна в привычном смысле. Просто плотная горячая среда, постепенно переходящая в атмосферу."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "Edge-on view of K2-18 b, hazy blue-grey sub-Neptune with thick pale hydrogen envelope and soft cloud bands, its hydrogen envelope a finely balanced layer of exactly the right depth around the planet, 300mm telephoto lens, red rim lighting. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow push-in.",
+  "karta": "Есть и ещё одна тонкость. Водородная оболочка гикеа́на должна быть подобрана почти идеально."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "A water world with only a thin hydrogen atmosphere, its ocean frozen over into a cracked white ice shell, a distant red star too faint to warm it, pale ridges and pressure cracks crossing the frozen surface, no open water anywhere, 35mm lens, cold weak light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow orbit.",
+  "karta": "Слишком тонкая — и она не согреет океан."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "A planet buried under an immensely thick hydrogen envelope, crushing gas layers stacked deep above where the water lies, the lower atmosphere dense and hot, the planet swollen and bloated by its envelope, the distant star dim behind it, 28mm wide lens, dim orange-red light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow pan left.",
+  "karta": "Слишком толстая — и давление на дне станет таким, что вода окажется в том самом сверхкритическом состоянии."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "A hazy planet orbiting a red dwarf with a faint stream of light hydrogen leaking off into space behind it, the gas trailing away in a long thin tail, the escaping gas faintly scattering the red starlight along its length, 50mm lens, red starlight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Static shot.",
+  "karta": "При этом лёгкий водород постоянно утекает в космос, особенно у красных карликов"
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "A young red dwarf erupting in a powerful flare, a bright blast of light and particles washing over a nearby hazy planet, ultraviolet light scouring its atmosphere, 35mm lens, harsh white flash on red background. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Animate it.",
+  "karta": "которые в молодости буквально бомбардируют свои планеты вспышками и жёстким ультрафиолетом."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "K2-18 b, hazy blue-grey sub-Neptune with thick pale hydrogen envelope and soft cloud bands, enduring flare after flare from its restless young star over billions of years, the outer haze torn and thinned yet still holding, 70mm lens, flickering red and white light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow tilt up.",
+  "karta": "Получается, что атмосфера должна была пережить миллиарды лет обстрела и при этом остаться ровно нужной толщины."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "K2-18 b, hazy blue-grey sub-Neptune with thick pale hydrogen envelope and soft cloud bands, alone against black space, its thin delicate outer haze layer hanging in a precarious balance, 135mm telephoto lens, faint red light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow dolly right.",
+  "karta": "Такое равновесие возможно, но выглядит хрупким."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "mini-Neptune, puffy pale blue planet with thick hazy hydrogen envelope and no visible surface, half in deep shadow, a grim heavy look under the faint light of a distant star, its secrets about to be challenged, 85mm telephoto lens, low side starlight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow pull-back.",
+  "karta": "А в две тысячи двадцать пятом году пришёл, пожалуй, самый болезненный удар."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "Neoclassical main building of a technical university in Zurich with its tall columns and copper dome above the city, a few adult researchers walking up the steps, the Alps faintly visible beyond the rooftops of the city, 35mm lens, clear late afternoon sunlight. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Animate it.",
+  "karta": "Исследователи из Швейцарской высшей технической школы Цю́риха решили посмотреть на мининепту́ны как на целостные системы."
+ },
+ {
+  "part": 3,
+  "space": false,
+  "nano": "Research office in Zurich with a lake view, an adult female planetary scientist at a long desk with three separate laptops open side by side, screens turned away from camera, 35mm lens, soft daylight. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Tracking shot.",
+  "karta": "Раньше атмосферу, воду и недра планеты часто моделировали по отдельности."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "A young planet as a red-hot ball, its molten magma surface churning directly beneath a thick hydrogen envelope, gas and lava in open contact, orange molten rivers swirling across the whole surface, thick gas pressing down on them, 35mm lens, intense orange light from below. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow crane up.",
+  "karta": "А ведь в молодости такая планета — это раскалённый шар, где водородная оболочка напрямую соприкасается с расплавленной магмой."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "Close above a magma ocean on a young planet, molten rock bubbling and reacting with the hydrogen above, steam jets escaping and vanishing in the hot gas, small crusted rafts of cooled rock drifting and sinking again into the melt, 50mm lens, orange red-hot light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow pan right.",
+  "karta": "Учёные проследили химические реакции между ними и обнаружили, что вода в таких условиях не выживает в больших количествах."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "Deep inside a young molten planet, heavy droplets of liquid iron sinking down through the magma toward a dense iron core, carrying away hydrogen and oxygen, the molten rock around them swirling slowly in huge currents, 24mm wide lens, white-hot and orange light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow tilt down.",
+  "karta": "Водород и кислород растаскиваются по разным резервуарам: часть уходит в железное ядро, часть связывается в недрах."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "A mature rocky planet with only thin shallow seas filling low basins between vast brown and grey plains, most of the surface dry rock, dried salt flats around the edges of the small seas, a few thin clouds, 35mm lens, clear starlight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Animate it.",
+  "karta": "Воды на поверхности остаётся от силы несколько процентов от массы планеты."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "A rare ocean planet, seamless deep blue water globe with no land, wrapped in pale humid haze, seen far away and alone in a sea of dry rocky planets, an unlikely world almost lost in the crowd, 135mm telephoto lens, faint starlight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Handheld drift.",
+  "karta": "Миры, где вода составляет десятки процентов массы, по их выводам, крайне маловероятны."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "Outer regions of a young planet-forming disk far from the star, countless icy pebbles and frosty planetesimals clumping together in the cold, dark gaps between the clumps, the faint distant star barely warming the frost, 24mm wide lens, weak distant starlight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow dolly left.",
+  "karta": "Даже планеты, родившиеся далеко от звезды, среди льдов"
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "A rocky planet formed among ices, now with a modest blue ocean and wide continents much like Earth, white clouds over its seas, coastlines and mountain ranges much like home, a moderate share of water, 50mm lens, gentle yellow starlight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow push-in.",
+  "karta": "по итогу оказываются ближе к Земле по доле воды, чем к водяному гиганту."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "A hycean world surface, a dark endless ocean thousands of kilometers wide under a pale heavy hydrogen sky, no land in sight, a scene that may be a rarity in the galaxy, 20mm ultra-wide lens, faint diffuse light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Animate it.",
+  "karta": "Иными словами, классический гикеа́н с глубочайшим океаном под водородным небом может оказаться не правилом"
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "A single hazy deep-ocean planet in a remote corner of a crowded galaxy, surrounded by many ordinary rocky and gaseous worlds, the lone exception in view, most of the nearby planets dry and rocky or thickly gaseous, 24mm wide lens, scattered starlight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow orbit.",
+  "karta": "а редким исключением. Или не существовать вовсе."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "An ocean planet, seamless deep blue water globe with no land, wrapped in pale humid haze, turning slowly under a yellow-orange sun, waves catching the light through gaps in the haze, a real ocean world at last, 50mm lens, warm starlight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow pan left.",
+  "karta": "Хорошо. Допустим, природа всё же где-то создала настоящую планету-океан."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "An ocean world under clear thin air, deep blue sea from horizon to horizon beneath a pale blue sky with white puffy clouds, no hydrogen haze and no land anywhere, 24mm wide lens, bright natural daylight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Static shot.",
+  "karta": "Не обязательно с водородом — просто мир, где воды в десятки раз больше, чем на Земле."
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "The snow line of a young planet-forming disk, beyond it water freezing into frost on grains and pebbles, small icy bodies glittering in the cold, the warm inner disk beyond, 35mm lens, faint starlight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow tilt up.",
+  "karta": "Такие планеты могли образоваться за линией снега, где вода замерзает в лёд"
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "A young ice-covered planet drifting inward toward its star, its frozen shell cracking and melting into open water as it moves closer, steam rising from the thawing surface, its path curving slowly inward over millions of years, 35mm lens, warming yellow starlight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Animate it.",
+  "karta": "и становится строительным материалом, а потом мигрировать ближе к звезде и оттаять"
+ },
+ {
+  "part": 3,
+  "space": true,
+  "nano": "Looking straight down into the dark depths of an ocean planet, seamless deep blue water globe with no land, wrapped in pale humid haze, the water fading from blue to black far below, something waiting at the bottom, 24mm wide lens, faint light from above. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow dolly right.",
+  "karta": "Что тогда? Тогда нас ждёт вторая проблема. И она, возможно, самая коварная."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "The bottom of an alien ocean hundreds of kilometers deep, a solid layer of dense high-pressure ice instead of a rocky seafloor, cold blue-white crystalline slabs under black water, 24mm wide lens, faint blue light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow pull-back.",
+  "karta": "Проблема вторая: лёд, который не тает."
+ },
+ {
+  "part": 4,
+  "space": false,
+  "nano": "A deep-sea bathyscaphe with a heavy steel sphere and large float descending through dark water in the Mariana Trench, searchlights cutting into the blackness, tiny particles drifting past, 24mm wide lens, harsh artificial light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Tracking shot.",
+  "karta": "Самое глубокое место на Земле — Марианская впадина, почти одиннадцать километров."
+ },
+ {
+  "part": 4,
+  "space": false,
+  "nano": "The floor of the Mariana Trench nearly eleven kilometers down, pale soft sediment and a single translucent amphipod in the searchlight beam, the water still perfectly liquid under crushing pressure, 35mm lens, cold artificial light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Animate it.",
+  "karta": "Давление там в тысячу с лишним раз выше, чем на поверхности. Это чудовищно много, но вода остаётся жидкой."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "A descent into the ocean planet, seamless deep blue water globe with no land, wrapped in pale humid haze, the water dimming through hundreds of kilometers of depth, pressure rising to tens of thousands of atmospheres in total darkness, 20mm ultra-wide lens, almost no light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow crane up.",
+  "karta": "А теперь представьте океан глубиной в сотни километров. Давление на его дне возрастает до десятков тысяч атмосфер."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Deep in an alien ocean, dense pale crystals of ice starting to form in the water under extreme pressure, a strange sight in liquid that should stay liquid, 50mm lens, faint cold blue light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow pan right.",
+  "karta": "И здесь вода начинает вести себя так, как мы совсем не привыкли."
+ },
+ {
+  "part": 4,
+  "space": false,
+  "nano": "A clear glass of water on a wooden kitchen table with three ice cubes floating at the top, their upper edges above the surface, fine bubbles trapped inside the cubes, a few drops of condensation running down the glass, 85mm macro lens, soft window daylight. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow tilt down.",
+  "karta": "Обычный лёд, тот, что плавает в стакане, легче воды."
+ },
+ {
+  "part": 4,
+  "space": false,
+  "nano": "A frozen lake in winter, clear dark ice on the surface with air bubbles trapped inside, liquid water and drifting weeds visible beneath the ice, snowy pine forest at the shore, 35mm lens, low winter sun. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Handheld drift.",
+  "karta": "Это редкое свойство, и мы им обязаны тем, что озёра зимой замерзают сверху, а не со дна."
+ },
+ {
+  "part": 4,
+  "space": false,
+  "nano": "Polarized-light microscope view of thin ice crystals grown in a cryogenic laboratory, interlocking crystal grains in vivid colors, different crystal forms side by side, sharp grain boundaries and crystal facets in blue, yellow and magenta, a sample holder visible at the edge, 40x objective, polarized transmitted light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Animate it.",
+  "karta": "Но у воды существует больше десятка разных кристаллических форм льда"
+ },
+ {
+  "part": 4,
+  "space": false,
+  "nano": "Close view of a diamond anvil cell on a lab bench, two tiny diamonds squeezing a microscopic drop of water between their tips inside a steel holder, adult researcher's gloved fingers adjusting the screws, 100mm macro lens, crisp lab light. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow dolly left.",
+  "karta": "и почти все они возникают только при огромных давлениях."
+ },
+ {
+  "part": 4,
+  "space": false,
+  "nano": "View through the window of a high-pressure laboratory cell, a small chunk of dense ice resting on the bottom under liquid water instead of floating, packed tighter than the liquid around it, 100mm macro lens, bright side light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow push-in.",
+  "karta": "Молекулы в них упакованы плотнее, чем в жидкой воде. Такой лёд тонет."
+ }
+]
