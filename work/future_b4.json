@@ -1,0 +1,303 @@
+[
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Night sky over a dark pine forest and a still lake, the faint oval smudge of the Andromeda galaxy visible among the stars above the treeline, 50mm lens, deep clear night, cold starlight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow tilt up.",
+  "karta": "Тем временем на небе разворачивается ещё одно событие."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Wide shot of the Andromeda galaxy, a vast tilted spiral of pale stars with dark dust lanes, its bright core and two small companion galaxies nearby, alone in deep black intergalactic space, 135mm lens. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow push-in.",
+  "karta": "Галактика Андроме́да, наша ближайшая большая соседка, приближается к нам со скоростью больше ста километров в секунду."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Wide shot of two great spiral galaxies facing each other across intergalactic space, the Milky Way in the foreground and the Andromeda galaxy, a vast tilted spiral of pale stars with dark dust lanes, beyond, 24mm lens. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow dolly left.",
+  "karta": "Ещё недавно её столкновение с Млечным Путём считали неизбежным."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Medium shot of a large space telescope in orbit: a hexagonal gold mirror array behind a wide layered silver sunshield, Earth's dark limb far below, 35mm lens, hard sunlight, no logos. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow orbit.",
+  "karta": "Но новые расчёты на основе данных космических телескопов показали"
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Very wide shot of the Andromeda galaxy, a vast tilted spiral of pale stars with dark dust lanes, small and far away, with the edge of the Milky Way disc in the foreground and an uncertain gap of empty space between, 14mm lens. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow pull-back.",
+  "karta": "шансы примерно пятьдесят на пятьдесят в ближайшие десять миллиардов лет."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Night landscape on a future Earth: a rocky plain under a sky dominated by a huge tilted spiral galaxy beside the Milky Way band, the night bright with two galaxies, 14mm lens, cold silvery starlight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Static shot.",
+  "karta": "Если встреча всё же случится, ночное небо Земли станет зрелищем, какого никто не видел."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Night sky over a mountain ridge where the Andromeda galaxy, a vast tilted spiral of pale stars with dark dust lanes, stretches across half the sky, its bright core above the peaks, 14mm lens, clear starlight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow crane up.",
+  "karta": "Андроме́да будет расти, пока не займёт полнеба."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Wide shot of two spiral galaxies passing through each other, their arms twisted into long tidal tails, dense pink clouds of compressed gas and bright clusters of newborn blue stars, 24mm lens, deep black space. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Animate it.",
+  "karta": "Галактики начнут проходить друг сквозь друга, газ в них сожмётся, и вспыхнут миллиарды новых звёзд."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Wide shot inside two merging galaxies: two thin streams of stars crossing each other with enormous empty gaps between individual stars, no collisions, 35mm lens, faint cold starlight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Tracking shot.",
+  "karta": "Но сами звёзды почти не столкнутся."
+ },
+ {
+  "part": 4,
+  "space": false,
+  "nano": "Close-up of a single ripe dark red cherry on a wooden table, its glossy skin and green stem, nothing else around it, 100mm macro lens, soft window light, shallow depth of field. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow push-in.",
+  "karta": "Расстояния между ними так огромны, что если бы Солнце было размером с вишню"
+ },
+ {
+  "part": 4,
+  "space": false,
+  "nano": "Wide shot of a vast empty flat steppe stretching to the horizon, a single small red cherry resting on a wooden fence post in the foreground and nothing else for hundreds of kilometers, 24mm lens, soft daylight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow pull-back.",
+  "karta": "ближайшая к нему звезда оказалась бы другой вишней в сотнях километров."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Wide shot of a giant elliptical galaxy formed after the merger: a huge smooth soft oval of old yellowish stars with a bright dense core, faint shells around it, 50mm lens, deep black space. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow orbit.",
+  "karta": "В итоге две галактики сольются в одну огромную, похожую на размытый эллипс."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Night sky of a distant future planet inside the merged galaxy Milkomeda: a vast smooth oval haze of stars covering the sky instead of a band, a dark rocky horizon below, 14mm lens. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow pan left.",
+  "karta": "У неё даже есть шутливое название — Млекоме́да. Пять миллиардов лет. Солнце начинает умирать."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Close shot of an aging Sun, slightly larger and more orange than today, its surface boiling with large convection cells and dark spots, unrest at the limb, 300mm lens, deep orange light, black space. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow push-in.",
+  "karta": "В его ядре заканчивается водород. Центр, полностью забитый гелием, сжимается и раскаляется"
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Extreme close shot of the turbulent surface of the swelling aging Sun, huge eruptive loops and rising hot plasma columns along its limb, the star beginning to expand, 200mm lens, intense orange light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow dolly right.",
+  "karta": "а водород продолжает гореть уже вокруг него, в толстом слое."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Wide shot of the red giant Sun, a vast swollen deep-red sphere with a churning mottled surface, expanding outward, the orbit of a small gray planet already close to its edge, 24mm lens, deep red light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow pull-back.",
+  "karta": "И от этого внешние слои Солнца начинают раздуваться. Сначала медленно, потом всё быстрее. Солнце превращается в красного гиганта."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Extreme wide shot of the red giant Sun, a vast swollen deep-red sphere with a churning mottled surface, at its largest size, filling almost the entire frame, a tiny planet silhouette near the edge, 14mm lens. no illustration, no cartoon, no CGI glow, no neon, no fantasy. no kids.",
+  "veo": "Slow tilt up.",
+  "karta": "Примерно через семь с половиной миллиардов лет оно достигнет максимального размера"
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Wide shot of the red giant Sun, a vast swollen deep-red sphere with a churning mottled surface, as a small gray cratered planet disappears into its outer layers, a second cloudy planet nearby next in line, 35mm lens. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Animate it.",
+  "karta": "в двести с лишним раз больше нынешнего. Меркурий будет проглочен. Затем Венера. А что с Землёй?"
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Wide shot of the red giant Sun, a vast swollen deep-red sphere with a churning mottled surface, with streams of gas peeling away from its outer layers into space, 50mm lens, deep red light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow orbit.",
+  "karta": "Здесь всё решает один неожиданный фактор. Раздуваясь, Солнце теряет массу."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Wide shot of a powerful stellar wind blowing off the red giant Sun, a vast swollen deep-red sphere with a churning mottled surface, thin red gas streaming past a distant blue-gray planet, 35mm lens. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Tracking shot.",
+  "karta": "Его внешние слои слабо держатся и уносятся в космос мощным звёздным ветром."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Wide shot of Earth as a small blue-gray sphere drifting slowly outward on a widening orbit, the red giant Sun, a vast swollen deep-red sphere with a churning mottled surface, behind it, 85mm lens, deep red light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow dolly left.",
+  "karta": "А чем меньше масса Солнца, тем слабее оно притягивает планеты, — и тем дальше они отодвигаются. Получается гонка."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Wide shot of the red giant Sun, a vast swollen deep-red sphere with a churning mottled surface, reaching toward a small planet in the foreground that is slowly moving away, a race in black space, 24mm lens. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow push-in.",
+  "karta": "Солнце растёт и тянется к Земле. А Земля отступает, потому что Солнце худеет."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Telephoto shot of a small dark planet just above the fiery edge of the red giant Sun, a vast swollen deep-red sphere with a churning mottled surface, the gap narrowing, 200mm lens, intense red light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Static shot.",
+  "karta": "Кто победит? Большинство современных расчётов говорят, что Солнце всё-таки догонит Землю."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Close shot of a small planet plowing through the thin red outer atmosphere of the red giant Sun, a vast swollen deep-red sphere with a churning mottled surface, a faint wake behind the planet, 70mm lens. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Handheld drift.",
+  "karta": "Есть ещё одна коварная деталь: раздутая атмосфера Солнца будет тормозить планету"
+ },
+ {
+  "part": 4,
+  "space": false,
+  "nano": "Close shot of a single dry autumn maple leaf falling slowly through still air, curving in a gentle spiral, a soft out-of-focus forest behind, 85mm lens, warm low autumn light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Tracking shot.",
+  "karta": "как воздух тормозит падающий лист, и Земля начнёт по спирали проваливаться внутрь."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Wide shot of the red giant Sun, a vast swollen deep-red sphere with a churning mottled surface, partly veiled in thin shells of its own lost gas, its edge uncertain and diffuse, 35mm lens, deep red light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow crane up.",
+  "karta": "Но точный ответ зависит от того, сколько именно массы потеряет Солнце, — и это пока известно не до конца."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Wide shot of a small scorched planet orbiting at the very edge of the red giant Sun, a vast swollen deep-red sphere with a churning mottled surface, still intact, 50mm lens, harsh red light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow pan right.",
+  "karta": "Не исключено, что Земля уцелеет на самом краю."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Medium shot from space of Earth as a lava world, a cracked black crust over red-hot flowing molten rock, its oceans long gone, no clouds, only volcanic haze, 85mm lens, deep red light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow orbit.",
+  "karta": "Но даже если уцелеет, это будет уже не та Земля."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Low surface shot on Earth as a lava world, a cracked black crust over red-hot flowing molten rock, a dim red disc covering the sky from horizon to horizon, mountains slumping into molten rivers, 18mm lens. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow pan left.",
+  "karta": "Небо до горизонта займёт тусклый красный диск. Поверхность раскалится до тысяч градусов. Горы расплавятся."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Wide shot from space of Earth as a lava world, a cracked black crust over red-hot flowing molten rock, a full red-hot sphere hanging in front of the immense red giant, 50mm lens, deep crimson light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow push-in.",
+  "karta": "Земля превратится в шар из лавы — тот самый, с которого мы начали."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Wide shot of the red giant Sun, a vast swollen deep-red sphere with a churning mottled surface, blowing off its outer envelope in an expanding shell of red and orange gas, 24mm lens, deep red light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Animate it.",
+  "karta": "А потом красный гигант сбросит с себя всю внешнюю оболочку."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Wide shot of a planetary nebula: an expanding shell of colourful gas in shades of blue, green and red, delicate filaments and knots, a tiny bright white point in the center, 85mm lens, deep black space. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow pull-back.",
+  "karta": "Она разлетится в космос сияющим облаком газа, которое астрономы по историческим причинам называют планетарной туманностью"
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Close telephoto shot of the delicate gas filaments of a planetary nebula, thin rings of blue and red gas around a hollow center, distant stars behind, 200mm lens, cold faint light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Static shot.",
+  "karta": "хотя к планетам она не имеет никакого отношения."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Wide shot of a beautiful ring-shaped planetary nebula floating among the stars of the Galaxy, layered shells of turquoise and orange gas, 35mm lens, deep black space, faint starlight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow tilt up.",
+  "karta": "Несколько десятков тысяч лет это облако будет одним из самых красивых объектов в Галактике."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Close shot of the center of a planetary nebula with a bare tiny white-hot stellar core, its harsh light shining outward through the surrounding gas, 135mm lens, intense white light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow push-in.",
+  "karta": "Его подсветит то, что останется в центре, — голое раскалённое ядро бывшего Солнца."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Wide shot of the white dwarf, a tiny dense white-hot stellar point in black space, beside the blue Earth for scale, the two about the same size, 50mm lens, harsh white light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow orbit.",
+  "karta": "Это белый карлик. Звезда размером примерно с Землю, но весом в половину нынешнего Солнца."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Extreme close shot of the white dwarf, a tiny dense white-hot stellar point in black space, its smooth compact surface without flares or flames, totally still, 300mm lens, cold intense white light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow dolly right.",
+  "karta": "Одна чайная ложка его вещества весила бы несколько тонн. Внутри него больше нет никакого огня."
+ },
+ {
+  "part": 4,
+  "space": false,
+  "nano": "Close shot of a single ember thrown from a campfire lying alone on dark ground, its red-hot core slowly cooling and graying at the edges, the fire in the background, 50mm lens, night, warm firelight. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Handheld drift.",
+  "karta": "Он просто остывает — очень-очень медленно, как уголь, выброшенный из костра."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Wide shot from space of a frozen dead Earth, a dark gray ice-crusted planet with no oceans and no cities, on a distant orbit far from a tiny white star, 85mm lens, faint cold light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow pan left.",
+  "karta": "Если Земля пережила гиганта, теперь она окажется дальше от Солнца"
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Wide shot of a frozen dead Earth, a dark gray ice-crusted planet with no oceans and no cities, orbiting among scattered rocky asteroids, a tiny white star far away, 35mm lens, dim cold light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow dolly left.",
+  "karta": "примерно там, где сейчас находится пояс астероидов. Раскалённая поверхность остынет и замёрзнет."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Low surface shot on a frozen dead Earth, a dark gray ice-crusted planet with no oceans and no cities, a tiny brilliant white point rising over a dark icy horizon, long faint shadows, 24mm lens. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Slow tilt up.",
+  "karta": "Над горизонтом будет восходить крошечная ослепительно белая точка, дающая очень мало тепла."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "High orbital shot of the day-night line crossing a frozen dead Earth, a dark gray ice-crusted planet with no oceans and no cities, a tiny white sun setting over frozen former sea floors, endless sunsets with no one to see them, 35mm lens, faint cold light. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Tracking shot.",
+  "karta": "Мёртвая, тёмная, холодная Земля продолжит свой бег. Сутки сменяются сутками. Рассветы и закаты."
+ },
+ {
+  "part": 4,
+  "space": true,
+  "nano": "Low surface shot of an empty dark frozen plain on a frozen dead Earth, a dark gray ice-crusted planet with no oceans and no cities, a pale white dawn point on the horizon, nobody anywhere, 18mm lens. no illustration, no cartoon, no CGI glow, no neon, no fantasy.",
+  "veo": "Static shot.",
+  "karta": "Только смотреть на них уже некому."
+ }
+]
