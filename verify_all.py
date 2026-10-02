@@ -18,6 +18,11 @@ PAIRS = [
     ("Planety_okeany.xlsx", "src/src_oceanw.txt"),
     ("Proshloe_Zemli.xlsx", "src/src_pastearth.txt"),
     ("Graviton.xlsx", "src/src_graviton.txt"),
+    ("Lovushka_gravitona.xlsx", "src/src_gravcatch.txt"),
+    ("Mashina_vremeni_Gedelya.xlsx", "src/src_goedel.txt"),
+    ("Temnaya_materiya_CERN.xlsx", "src/src_darkmatter.txt"),
+    ("Lestnitsa_chernyh_dyr.xlsx", "src/src_bhladder.txt"),
+    ("Korabl_bystree_sveta.xlsx", "src/src_ftlship.txt"),
 ]
 
 total_err = 0
