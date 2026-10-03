@@ -23,6 +23,11 @@ PAIRS = [
     ("Temnaya_materiya_CERN.xlsx", "src/src_darkmatter.txt"),
     ("Lestnitsa_chernyh_dyr.xlsx", "src/src_bhladder.txt"),
     ("Korabl_bystree_sveta.xlsx", "src/src_ftlship.txt"),
+    ("Космический календарь.xlsx", "src/src_calendar.txt"),
+    ("Полёт к Андромеде.xlsx", "src/src_andromeda.txt"),
+    ("Телескоп Нэнси Грейс Роман.xlsx", "src/src_roman.txt"),
+    ("Ядро Земли.xlsx", "src/src_core.txt"),
+    ("Антивещество.xlsx", "src/src_antimatter.txt"),
 ]
 
 total_err = 0
@@ -32,7 +37,7 @@ for xlsx, txt in PAIRS:
     try:
         ws = load_workbook(xlsx)["Промты"]
     except FileNotFoundError:
-        print(f"{xlsx:28} НЕТ ФАЙЛА")
+        print(f"{xlsx:34} НЕТ ФАЙЛА")
         total_err += 1
         continue
     rows = []
@@ -43,7 +48,7 @@ for xlsx, txt in PAIRS:
     src = source_lines(txt)
     errs, _ = check_rows(rows, src)
     share = sum(r["space"] for r in rows) / max(1, len(rows))
-    print(f"{xlsx:28} {len(rows):>6} {duration(src):>6} {share:>6.0%}  {len(errs)}")
+    print(f"{xlsx:34} {len(rows):>6} {duration(src):>6} {share:>6.0%}  {len(errs)}")
     for e in errs:
         print("   ERR", e)
     total_err += len(errs)
