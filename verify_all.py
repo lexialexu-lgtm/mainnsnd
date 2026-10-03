@@ -28,6 +28,8 @@ PAIRS = [
     ("Телескоп Нэнси Грейс Роман.xlsx", "src/src_roman.txt"),
     ("Ядро Земли.xlsx", "src/src_core.txt"),
     ("Антивещество.xlsx", "src/src_antimatter.txt"),
+    ("История Земли за 27 минут.xlsx", "src/src_earthfilm.txt"),
+    ("Загадки Вселенной.xlsx", "src/src_unknowns.txt"),
 ]
 
 total_err = 0
